@@ -101,8 +101,6 @@ Here are some ideas to get you started:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soukainacodes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukainacodes&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
@@ -114,39 +112,34 @@ Here are some ideas to get you started:
 
 ### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
 Developing a data-driven method to quantify pruritus in PBC patients for better clinical decisions.  
-![Clinic Barcelona](![clinic](https://github.com/user-attachments/assets/7e6c9942-665d-4f67-b602-219056109fba)
-)
+
 
 ---
 
 ### 💱 [Predicting Exchange Rates Using SVM](https://github.com/soukainacodes/Using--SVM-To-Predict-Swedish-Krona)
 Exchange rate prediction: compared Linear vs Huber Regression on ECB data, using MSE & Huber Loss.  
-![Krona](![krona](https://github.com/user-attachments/assets/ee15858f-e003-4904-9250-3e7dc6a5de3f)
-)
+
 
 ---
 
 ### 🚗 [From Multivariant Data Analysis to Predictive Modeling on UK’s Used Cars Prices](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)
 Comprehensive analysis integrating data cleaning, EDA, MVA, clustering, and ML to derive actionable insights.  
-![UK Cars](https://your-image-host/cars.png)
 
 ---
 
 ### 🎭 [Building and Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
 Large-scale repository with DSpace 7.6, massive data migration, and UI/UX enhancements.  
-![DCC](![logo-dcc](https://github.com/user-attachments/assets/81c8e5e3-7cc2-4cea-9a9f-30023585da6f))
 
 
 ### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/Scrabble-AI)  
 *A full-featured Scrabble game in Java with player vs machine logic, dictionary management, rankings, and data export. Focused on resolution algorithms for the AI player.*  
-![Scrabble Project](https://your-image-host/scrabble.png) <!-- Replace with your image URL -->
 ---
 
 ## 💬 Let’s Connect!
 
-📫 Reach me: [your.email@example.com](mailto:your.email@example.com)  
-🌐 Website: [yourwebsite.com](https://yourwebsite.com) *(optional)*  
-💡 Always happy to chat about **AI**, **medical data**, and making health more *human + tech-driven*!
+📫 Reach me: [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)  
+🌐 Website: [soukainamehboub.com](https://soukainamehboub.com) 
+💡 Always happy to chat!
 
 ---
 
