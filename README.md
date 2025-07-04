@@ -1,11 +1,7 @@
 
-![Header](https://github.com/user-attachments/assets/d1f5dd1c-2b2c-4e5f-b9d1-969fb701a2c5)
+![Header](./github-header-image.png)
 
-# 👋 Hey there! I'm Soukaïna Mehboub 
 
-**🚀 Software Developer & Data Analyst **
-
----
 
 
 ## 🙋‍♂️ About Me
