@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!-- Profile README -->
 
 <!-- Banner GIF -->
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF2ZDRkMHFuN3QyZHA1Y3owM3N1Z3JqNTN1dnJlcXR4ZjVmZWhrYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCTfyhYawdOXcFW/giphy.gif)
+![Header](![github-header-image (8)](https://github.com/user-attachments/assets/d1f5dd1c-2b2c-4e5f-b9d1-969fb701a2c5)
+)
 
 # 👋 Hey there! I'm Soukaïna Mehboub 
 
