@@ -11,7 +11,7 @@
 🚀 I aim to leverage my skills and insight in a dynamic team and contribute meaningfully to the success of the company.  
 📚 Currently studying Masters in Management Engineering.
 
-🧑‍💻 Building with **Java** **React**, **Node.js**, and **Python**.  
+🧑‍💻 Building with **Java**, **C++/C**, **React**, **Node.js**, and **Python**.  
 🔬 Passionate about bridging **medicine + AI** for better patient outcomes.  
 🌍 Collaborating with **Clinic Barcelona** & medical experts for real-world impact.  
 
