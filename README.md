@@ -118,8 +118,5 @@ A full-featured Scrabble game in Java with player vs machine logic, dictionary m
 🌐 Website: [soukainamehboub.com](https://soukainamehboub.com) 
 💡 Always happy to chat!
 
----
-
-![Visitors](https://komarev.com/ghpvc/?username=soukainacodes&label=Profile%20Views&color=0e75b6&style=flat)
 
 
