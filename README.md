@@ -131,8 +131,9 @@ Comprehensive analysis integrating data cleaning, EDA, MVA, clustering, and ML t
 Large-scale repository with DSpace 7.6, massive data migration, and UI/UX enhancements.  
 
 
-### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/Scrabble-AI)  
-*A full-featured Scrabble game in Java with player vs machine logic, dictionary management, rankings, and data export. Focused on resolution algorithms for the AI player.*  
+### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)
+A full-featured Scrabble game in Java with player vs machine logic, dictionary management, rankings, and data export. Focused on resolution algorithms for the AI player.
+
 ---
 
 ## 💬 Let’s Connect!
