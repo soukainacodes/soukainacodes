@@ -82,8 +82,6 @@
 
 ---
 
-## ✨ Featured Project
-
 ## 📌 Featured Projects
 
 ### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
