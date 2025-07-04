@@ -120,6 +120,6 @@ A full-featured Scrabble game in Java with player vs machine logic, dictionary m
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=soukainacodes&label=Profile%20Views&color=0e75b6&style=flat)
 
 
