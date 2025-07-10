@@ -104,11 +104,15 @@ Comprehensive analysis integrating data cleaning, EDA, MVA, clustering, and ML t
 ### 🎭 [Building and Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
 Large-scale repository with DSpace 7.6, massive data migration, and UI/UX enhancements.  
 
+---
 
 ### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)
 A full-featured Scrabble game in Java with player vs machine logic, dictionary management, rankings, and data export. Focused on resolution algorithms for the AI player.
 
 ---
+
+### 🛡️ [Turfs - Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
+A lightweight, open-source Chrome extension to block ads instantly. Features a simple ON/OFF toggle, privacy-first design, and customizable blocking rules using Chrome’s Declarative Net Request AP
 
 ## 💬 Let’s Connect!
 
