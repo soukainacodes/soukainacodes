@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎯 Looking for a full-time job position.  
+🎯 Working full-time in Iceland! 
 💻 I am a Computer Engineer specializing in Information Systems with a strong interest in data analysis, machine learning, and AI-driven knowledge extraction.  
 🚀 I aim to leverage my skills and insight in a dynamic team and contribute meaningfully to the success of the company.  
 📚 Currently studying Masters in Management Engineering.
