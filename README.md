@@ -9,7 +9,7 @@
 🎯 Working full-time in Iceland! 
 💻 I am a Computer Engineer specializing in Information Systems with a strong interest in data analysis, machine learning, and AI-driven knowledge extraction.  
 🚀 I aim to leverage my skills and insight in a dynamic team and contribute meaningfully to the success of the company.  
-📚 Currently studying Masters in Management Engineering.
+📚 Currently studying Masters in Cybersecurity and Engineering.
 
 🧑‍💻 Building with **Java**, **C++/C**, **React**, **Node.js**, and **Python**.  
 🔬 Passionate about bridging **medicine + AI** for better patient outcomes.  
