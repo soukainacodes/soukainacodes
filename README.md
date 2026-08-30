@@ -78,12 +78,16 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=soukainacodes&show_icons=true&hide_border=true&title_color=e7a6d8&icon_color=ffd97a&text_color=e9defb&bg_color=2d1a5e&count_private=true" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukainacodes&layout=compact&hide_border=true&title_color=e7a6d8&text_color=e9defb&bg_color=2d1a5e" alt="top langs" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soukainacodes&theme=dracula" alt="profile details" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&hide_border=true&background=2d1a5e&ring=e7a6d8&fire=ffd97a&currStreakLabel=e7a6d8&sideLabels=e9defb&dates=c9b6ff&stroke=c9b6ff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soukainacodes&theme=dracula" alt="top languages" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soukainacodes&theme=dracula&utcOffset=0" alt="productive time" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&hide_border=true&background=282A36&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6&sideLabels=f8f8f2&dates=bd93f9&stroke=bd93f9&currStreakNum=f8f8f2&sideNums=f8f8f2" alt="streak" />
 
 </div>
 
@@ -123,10 +127,15 @@
 
 <br/>
 
-<!-- ✦ CONTRIBUTION SNAKE (needs the GitHub Action in .github/workflows/snake.yml) ✦ -->
+<!-- ✦ CONTRIBUTION SNAKE ✦
+     Disabled so nothing shows broken. To turn it on:
+     1) push .github/workflows/snake.yml
+     2) open the repo Actions tab and run "Generate Contribution Snake" once
+     3) delete this comment wrapper so the <img> below shows
 <img src="https://raw.githubusercontent.com/soukainacodes/soukainacodes/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+-->
 
-<br/><br/>
+<br/>
 
 <sub>✦ made with moonlight, sparkles & a little witchcraft ✦</sub>
 
