@@ -5,125 +5,123 @@
   <img width="100%" src="./assets/luna-hero.svg" alt="Luna the cat under a shining moon"/>
 </div>
 
-<!-- ✦ MOVING TYPING TEXT ✦ -->
+<!-- ✦ TYPING TEXT ✦ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=2800&pause=900&color=E7A6D8&center=true&vCenter=true&width=680&lines=Casting+spells+in+Java%2C+Python+%26+React;Brewing+machine+learning+potions;Bridging+medicine+%2B+AI+for+real+impact;Every+bug+is+just+a+spell+not+finished+yet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=3000&pause=1000&color=C9B6FF&center=true&vCenter=true&width=640&lines=Computer+Engineer+%C2%B7+Information+Systems;Machine+learning+%26+AI+for+healthcare;Bridging+medicine+%2B+AI+for+real+impact)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=soukainacodes&label=moonlight%20visitors&color=b57edc&style=flat-square" alt="views" />
-<a href="https://soukainamehboub.com"><img src="https://img.shields.io/badge/%E2%9C%A6%20spellbook-soukainamehboub.com-ffc6e5?style=flat-square&labelColor=3b2166" alt="website" /></a>
-<a href="mailto:soukainamm98@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20owl%20mail-email-c9b6ff?style=flat-square&labelColor=3b2166" alt="email" /></a>
+<a href="https://soukainamehboub.com"><img src="https://img.shields.io/badge/%E2%9C%A6%20website-soukainamehboub.com-ffd66b?style=flat-square&labelColor=120e24" alt="website" /></a>
+<a href="mailto:soukainamm98@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20email-soukainamm98-ff8fc4?style=flat-square&labelColor=120e24" alt="email" /></a>
+<img src="https://komarev.com/ghpvc/?username=soukainacodes&label=moonlight%20visitors&color=c9b6ff&style=flat-square&labelColor=120e24" alt="views" />
 
 </div>
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## 🌙 The Cat-Witch Behind the Wand
+## 🌙 About
 
-<img align="right" width="150" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="sparkles"/>
+<img align="right" width="140" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="sparkles"/>
 
 > *"Every bug is just a spell I refused to give up on."*
 
-🐈‍⬛ Cosmic cat-witch casting full-time in **Iceland** ❄️
-💻 Computer Engineer specializing in **Information Systems**, brewing potions of **data analysis, machine learning & AI-driven knowledge extraction**
-🌸 Studying my **Master's in Cybersecurity & Engineering** at the academy
-🔬 On a quest to bridge **medicine + AI** for better patient outcomes
-🌍 Casting alongside **Clinic Barcelona** & medical experts for real-world magic
-✨ Always looking for a dynamic coven to grow with and lift up
+Computer Engineer specializing in **Information Systems**, casting full-time from **Iceland**.
+Working across **data analysis, machine learning & AI-driven knowledge extraction**.
+Currently pursuing an **MSc in Cybersecurity & Engineering**.
+Researching **medicine + AI** for better patient outcomes, alongside **Clínic Barcelona**.
 
-`Building spells with:` **Java** · **C++/C** · **React** · **Node.js** · **Python**
+`Toolkit:` Java · C / C++ · Python · React · Node.js
 
 <br clear="right"/>
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## 📖 My Spellbook, Tech I Wield
+## ✦ Tech I Wield
 
 <div align="center">
 
-**🧪 Potions of Data & Machine Learning**
+**Data & Machine Learning**
 
 [![Data & ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&perline=8)](https://skillicons.dev)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-120e24?style=flat-square&logo=numpy&logoColor=c9b6ff)
+![Pandas](https://img.shields.io/badge/-Pandas-120e24?style=flat-square&logo=pandas&logoColor=ff8fc4)
 
-**✨ Charms of the Frontend**
+**Frontend**
 
 [![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css&perline=8)](https://skillicons.dev)
 
-**🔧 Enchantments of the Backend**
+**Backend**
 
 [![Backend](https://skillicons.dev/icons?i=java,py,django,cs,cpp,c,php&perline=8)](https://skillicons.dev)
 
-**🗄️ Vaults & Databases**
+**Databases**
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=8)](https://skillicons.dev)
 
-**🌩️ Rituals of DevOps & Infrastructure**
+**DevOps & Infrastructure**
 
 [![DevOps](https://skillicons.dev/icons?i=docker,nginx,apache,git,linux&perline=8)](https://skillicons.dev)
 
-**🌍 Ancient Open-Source Artifacts**
+**Open-Source Platforms**
 
-![DSpace](https://img.shields.io/badge/-DSpace-005B94?style=flat-square)
-![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
-![Koha](https://img.shields.io/badge/-Koha-009639?style=flat-square)
-![Archivematica](https://img.shields.io/badge/-Archivematica-00ADEF?style=flat-square)
+![DSpace](https://img.shields.io/badge/-DSpace-120e24?style=flat-square&logoColor=c9b6ff)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-120e24?style=flat-square&logo=prestashop&logoColor=ff8fc4)
+![Koha](https://img.shields.io/badge/-Koha-120e24?style=flat-square)
+![Archivematica](https://img.shields.io/badge/-Archivematica-120e24?style=flat-square)
 
 </div>
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## ✨ Moonlight Stats
+## ✦ Moonlight Stats
 
 <div align="center">
 
-<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soukainacodes&theme=dracula" alt="profile details" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soukainacodes&theme=aura" alt="profile details" />
 
 <br/>
 
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soukainacodes&theme=dracula" alt="top languages" />
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soukainacodes&theme=dracula&utcOffset=0" alt="productive time" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soukainacodes&theme=aura" alt="top languages" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soukainacodes&theme=aura&utcOffset=0" alt="productive time" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&hide_border=true&background=282A36&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6&sideLabels=f8f8f2&dates=bd93f9&stroke=bd93f9&currStreakNum=f8f8f2&sideNums=f8f8f2" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=soukainacodes&hide_border=true&background=120e24&ring=ffd66b&fire=ff8fc4&currStreakLabel=ffd66b&sideLabels=d9c9ff&dates=c9b6ff&stroke=c9b6ff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
 </div>
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## 🧹 The Grimoire, Featured Spells
+## ✦ Featured Spells
 
 > *A cat-witch is only as good as the spells she dares to cast.*
 
-### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
-`✦ level: enchanted` : A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
+**🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)**
+Data-driven quantification of pruritus in PBC patients to sharpen clinical decisions.
 
-### 💱 [Predicting Exchange Rates Using SVM](https://github.com/soukainacodes/Using--SVM-To-Predict-Swedish-Krona)
-`✦ level: divination` : Foretelling exchange rates, Linear vs Huber Regression on ECB data, scried through MSE & Huber Loss.
+**💱 [Predicting Exchange Rates Using SVM](https://github.com/soukainacodes/Using--SVM-To-Predict-Swedish-Krona)**
+Forecasting exchange rates on ECB data, Linear vs Huber Regression, evaluated with MSE & Huber Loss.
 
-### 🚗 [From Multivariant Data Analysis to Predictive Modeling on UK's Used Car Prices](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)
-`✦ level: grand ritual` : Data cleaning, EDA, MVA, clustering & ML woven into one spell of actionable insight.
+**🚗 [Used Car Prices: From MVA to Predictive Modeling](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)**
+Data cleaning, EDA, multivariate analysis, clustering and ML woven into one pipeline of actionable insight.
 
-### 🎭 [Building & Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
-`✦ level: archmage` : A vast repository conjured on DSpace 7.6, with massive data migration and UI/UX enchantments.
+**🎭 [Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)**
+A large repository built on DSpace 7.6, with heavy data migration and UI/UX work.
 
-### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)
-`✦ level: familiar summoning` : A full Scrabble game in Java with player-vs-machine logic, dictionaries, rankings & an AI player built on resolution algorithms.
+**🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)**
+Full Scrabble in Java: player-vs-machine logic, dictionaries, rankings and an AI player built on resolution algorithms.
 
-### 🛡️ [Turfs, Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
-`✦ level: protective ward` : A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
+**🛡️ [Turfs, Free Ad Blocker](https://github.com/soukainacodes/turfs)**
+Lightweight open-source ad blocker. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## 💫 Send a Message Across the Night Sky
+## ✦ Reach Me Across the Night Sky
 
 <div align="center">
 
-📫 **Reach me:** [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)
-🌐 **Spellbook:** [soukainamehboub.com](https://soukainamehboub.com)
-🌙 *Always happy to chat magic, code & everything between!*
+📫 [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com) &nbsp;·&nbsp; 🌐 [soukainamehboub.com](https://soukainamehboub.com)
+
+*Always happy to talk code, ML and everything between.*
 
 <br/>
 
