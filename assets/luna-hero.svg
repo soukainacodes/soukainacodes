@@ -77,42 +77,42 @@
     <circle cx="922" cy="139" r="1.7"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.5s" begin="0.4s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- black follower runs EAST (behind) -->
+  <!-- white follower runs EAST (behind) -->
   <g>
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.40;0.42;1" dur="16s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-210,224; 875,224; 875,224; 875,224" keyTimes="0;0.42;0.44;1" dur="16s" repeatCount="indefinite"/>
-    <g transform="scale(2.35)">
-      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#b7a3e0" opacity="0.20" filter="url(#catGlow)"/>
-      <g opacity="1"><animate attributeName="opacity" values="1;0" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDElEQVR4nO2WQQrDIBBFVVw2O3OB5v5Hai/Q7tp9SwIDvzKj48QQKH5IKMX58/IzSpwbOlvpcv3QdXQf7v+w3h6v23YdBVHyDS2Lrc3Xh6suQvWCQN+qZ+oMYfJLHSBooHOpBz0xEFoQrjEHYjJJle0qPTnWcxDRKYWTPE/LZvB83720xqSkiJCLUxs9l0DYA9xyeGE6WBf3AOTGqHlaVOuiO0jaeQjuBK3p0AD7pjN7R0MU7p5oMdOCUuN8u6IiTWPNlMx6p+RL0WN01sa1FDwCSFtHCyKlVILwBIDF0tBoDh2q50Bx+n8AXFZcGhpJnA/9rkFs6vlhmp/7pe8M36OhBCG9PkvCQ0P/qy8T9cunabF3kgAAAABJRU5ErkJggg=="/></g>
-      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABKElEQVR4nO1WSw4CMQgtzSx1Vy+g9z+SXkB3uteQiEECU2irxqQvmcyE0j76+GhKEz8GRDeUzf5O35fbCb4WQHkSn6/Hl223PXQHAi3EEiMCMckj4OnxIqeBQJVaghhye68SuMbXs+W0lvNWuM4tHTe3VKBbVxUqwslDsrYmid3kCG2zBs2nFhjnzVpusK97ejpSP1kaouRIRoPI6/+mQjGKI1KMXl+NK2s3/1QbasiSHIHfXlnRTwaLNnq6UBq6QMpsdZOciCo8fR6pAe0MqAWAb5JYSkod0FIvlPYlulHOC4ucgtXWec2BRcQ7gRNxFazDCUii5ZkX/GIFoB3oIaa0EEltqIG1QJHL2WC1Fldo+F8zBG+pxOD6mV0BRJylKtwm7RMTf4MHBdMQOTlVHjEAAAAASUVORK5CYII="/></g>
+    <animateTransform attributeName="transform" type="translate" values="-210,222; 875,222; 875,222; 875,222" keyTimes="0;0.42;0.44;1" dur="16s" repeatCount="indefinite"/>
+    <g transform="scale(2.3)">
+      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#d9c9ff" opacity="0.16" filter="url(#catGlow)"/>
+      <g opacity="1"><animate attributeName="opacity" values="1;0" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABCUlEQVR4nO2WWwrCMBBFk5gN6I/uf3X6EzegKC2MXMO8EhMK0gstJczjdDITEsKurVWujxc9s/Nw62l5Hc+H9ZkFocVNLca9yZefM41QoyAwrhmzDIboilcGQFBD13I3emEgvCBcYg5EbcJaOCEajAV5vz0/8dA2a041SJ3sdMlRsvEqNY8Mc254/UyAVrUcXgiIfrk5qxKY23PLLodJ8m5JChtoqQ41cKTFXxrJkxCF05N7gnlBKXE9rqhM3WgFxYNkpKJWeixdb2KrChEBpNHxgkhV0iAiAaCz1DSeQ4f8OVDs/i+AUDlrTSOJi0PfFsSqkRfT+iak3TPiiIQShLR9PRXetet/9QYVEZZ9Z3Rd+QAAAABJRU5ErkJggg=="/></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABHklEQVR4nO1WSw4CMQhtay/gbPT+p9NNvYBGQyIGCRT60828ZJJOoX0PaJkJYcefEVsXlMv9iePtnOPPBJQ38fF0+Mzdro9hIbGHmGOGEJW8BbQ8XqQwEZClHhFTovdmAmzUnjSnWs174dq3DESuZQGjNjNUmJOHpGbjxG5ygLRYguRjCaO8SaoN3OuRO91yfhKfaCUHMmxEXv+vLBTlcLQcRq+vxJWkyFddQwmJkwNg7E0r+HGxMIePhVgzejLBBdB3KkASOSQAN8BD2FMyWJc9TlJEM8ih1KYADi3dEgH35+Qwjp70e+vK7UAitV564LMmQNrQQ4xlQRKrqWWLXOoNNVGjbVwF/brxee1DM/WXbKtEhU1nSeQ7doTFeAFYv97ci8Qv/QAAAABJRU5ErkJggg=="/></g>
     </g>
   </g>
-  <!-- white shiny Luna (lead) runs EAST -->
+  <!-- white Luna (lead) runs EAST -->
   <g>
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.40;0.42;1" dur="16s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-80,202; 1025,202; 1025,202; 1025,202" keyTimes="0;0.42;0.44;1" dur="16s" repeatCount="indefinite"/>
-    <g transform="scale(3.05)">
-      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#e9dcff" opacity="0.42" filter="url(#catGlow)"/>
+    <animateTransform attributeName="transform" type="translate" values="-80,214; 1025,214; 1025,214; 1025,214" keyTimes="0;0.42;0.44;1" dur="16s" repeatCount="indefinite"/>
+    <g transform="scale(2.6)">
+      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#e0d4ff" opacity="0.20" filter="url(#catGlow)"/>
       <g opacity="1"><animate attributeName="opacity" values="1;0" dur="0.26s" begin="0s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABCUlEQVR4nO2WWwrCMBBFk5gN6I/uf3X6EzegKC2MXMO8EhMK0gstJczjdDITEsKurVWujxc9s/Nw62l5Hc+H9ZkFocVNLca9yZefM41QoyAwrhmzDIboilcGQFBD13I3emEgvCBcYg5EbcJaOCEajAV5vz0/8dA2a041SJ3sdMlRsvEqNY8Mc254/UyAVrUcXgiIfrk5qxKY23PLLodJ8m5JChtoqQ41cKTFXxrJkxCF05N7gnlBKXE9rqhM3WgFxYNkpKJWeixdb2KrChEBpNHxgkhV0iAiAaCz1DSeQ4f8OVDs/i+AUDlrTSOJi0PfFsSqkRfT+iak3TPiiIQShLR9PRXetet/9QYVEZZ9Z3Rd+QAAAABJRU5ErkJggg=="/></g>
       <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.26s" begin="0s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABHklEQVR4nO1WSw4CMQhtay/gbPT+p9NNvYBGQyIGCRT60828ZJJOoX0PaJkJYcefEVsXlMv9iePtnOPPBJQ38fF0+Mzdro9hIbGHmGOGEJW8BbQ8XqQwEZClHhFTovdmAmzUnjSnWs174dq3DESuZQGjNjNUmJOHpGbjxG5ygLRYguRjCaO8SaoN3OuRO91yfhKfaCUHMmxEXv+vLBTlcLQcRq+vxJWkyFddQwmJkwNg7E0r+HGxMIePhVgzejLBBdB3KkASOSQAN8BD2FMyWJc9TlJEM8ih1KYADi3dEgH35+Qwjp70e+vK7UAitV564LMmQNrQQ4xlQRKrqWWLXOoNNVGjbVwF/brxee1DM/WXbKtEhU1nSeQ7doTFeAFYv97ci8Qv/QAAAABJRU5ErkJggg=="/></g>
     </g>
   </g>
-  <!-- black follower runs WEST (behind) -->
+  <!-- white follower runs WEST (behind) -->
   <g>
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.52;0.9;0.92;1" dur="16s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="1155,224; 1155,224; 70,224; 70,224" keyTimes="0;0.52;0.92;1" dur="16s" repeatCount="indefinite"/>
-    <g transform="scale(2.35)">
-      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#b7a3e0" opacity="0.20" filter="url(#catGlow)"/>
-      <g opacity="1"><animate attributeName="opacity" values="1;0" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABEklEQVR4nO1WOw7CMAxNqox0Sy5A738kuEDZYAd5MLKMGzs/GMiTWkHj+D03z2mcm/gxvPQwns7P2+MqjvUA5MffiyWoN/l+vzi4sgIgoLcIJDcFInqJoDnVvLEkeAR5ZBNwUo2QpsolWEVIhUhzg2SQtG5vl5a0KSUwmc0RAVZAYhAoEVtJTc7XgKSWWGkeYsEkVL21EnNf1yxBYq+ZE7USqwL2TgQaFriBo3nF34Knf7hBRr0FKBbbONAB3ttp3YoEafuHBN/b5biUFrFZAa2bC/XUUQ6ICSXkWnVHrZtraS+RSwS4vrlu4R46MjXN5TVyWjUlrzkz8g/exyDfs0edjGguzwd5hfhs5Cl5YuK/8QL/XZYJmIuzOAAAAABJRU5ErkJggg=="/></g>
-      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABLUlEQVR4nO1VSQ7DIAwElGN6ox9I//+k9gPprbm3oooj1zLggai5ZKRIWYg9MxjbuRMHw+8RJI7Tm+6fy8P/jUBcE8+v+/buerlBRPxeiSVQIlByBHx7NAQ0eUl1F+I4Fdmiyq0uBP6Q1NUsa4EpbmQKpRs96pF6cDIRESkRsJCT4swEOLRv1uSaMPgUzB3Vn3oB9QWKRSQCV48kSQGR9ZLED6LYIwuQwswVdLqHGlEruOXSiVD7OS2mSwbNWqrE4DOBkxjksaB9lUXTCpmck/gSyCWoJaUiJKKtJH3PkJEkci6aRnLMVDXaCUstPesAQVuc2PP3mlNavfA+kasDCKSs5IimXvYBicFKYD06W62UjiBXnP5xeyIWJhufntZ4A0qAnKitQeOeOOGOwgd0vt5hpnAFJQAAAABJRU5ErkJggg=="/></g>
+    <animateTransform attributeName="transform" type="translate" values="1155,222; 1155,222; 70,222; 70,222" keyTimes="0;0.52;0.92;1" dur="16s" repeatCount="indefinite"/>
+    <g transform="scale(2.3)">
+      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#d9c9ff" opacity="0.16" filter="url(#catGlow)"/>
+      <g opacity="1"><animate attributeName="opacity" values="1;0" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABC0lEQVR4nO1WSQ7CMAxMSj5QLvD/18El/QCoyAcjM5jE2eBARgJBY3vGjaeNcxM/htcuxsttP56DutYDVJ9/L5ag3uTr6eDokxRAAb1FMLkpkNFLhKyZrRtLgkeQR0jgpBohTZ1rsIrQGtFygzYg2/X+nNISm0oC07A5IcAKKkwCNWIrqcRSnAEWRV9b814ERPCntROzr2u2YIPbjEStxFkBayeCHBb6oonGjr8FL//ggIy6C9Qs2zjIBfR2qaDc80OD7z3lvJUWsUkBLQ8XSZCqQTGhhDzX3SfrpiztNXKNgPc35RbrDMlaPkcuu5bkNWdGfOG9LeKrc9TJSNbyuIgd8rWRp+SJif/GA2XzitZ1R4aUAAAAAElFTkSuQmCC"/></g>
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.26s" begin="-0.13s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABLElEQVR4nO1VWw7CIBAE5AL1R+9/uvqDF6jRYFyzThbKQGN/OkkTSunO7INd5w7sDL+FkTQvT1mfr9H/TUD6EE+X03fvfntQQvxWxAhWCEXOQKfHQmDJa14PIc1LVS3reWsUgn7J3q2FrAdNdpPyEKMx4j1TDw6JREhNQIs4dK5ZgIb1rZXccoy+BdNA9edeIH1BbImIoL1nSLJB5jyK+EGCHLWAKcxSQec11Yh6oUOOkQhrP+fD8qDRYkgNG3omaBERr4XkFYumF0iuRbwFlAjWSKUIRWivSD8yZFBEKYq1kRzkQCmfVv41kYiQh4XXL1abzOL0vkVi1YvuE6U6oCD3tzYbrIGGfQARWwVIJKxbgtAebz7eU2Wy6enZai+yArAmSmdYuwcOuL3wAnkhCyGjK0yjAAAAAElFTkSuQmCC"/></g>
     </g>
   </g>
-  <!-- white shiny Luna (lead) runs WEST -->
+  <!-- white Luna (lead) runs WEST -->
   <g>
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.52;0.9;0.92;1" dur="16s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="1025,202; 1025,202; -80,202; -80,202" keyTimes="0;0.52;0.92;1" dur="16s" repeatCount="indefinite"/>
-    <g transform="scale(3.05)">
-      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#e9dcff" opacity="0.42" filter="url(#catGlow)"/>
+    <animateTransform attributeName="transform" type="translate" values="1025,214; 1025,214; -80,214; -80,214" keyTimes="0;0.52;0.92;1" dur="16s" repeatCount="indefinite"/>
+    <g transform="scale(2.6)">
+      <ellipse cx="16" cy="20" rx="20" ry="12" fill="#e0d4ff" opacity="0.20" filter="url(#catGlow)"/>
       <g opacity="1"><animate attributeName="opacity" values="1;0" dur="0.26s" begin="0s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABC0lEQVR4nO1WSQ7CMAxMSj5QLvD/18El/QCoyAcjM5jE2eBARgJBY3vGjaeNcxM/htcuxsttP56DutYDVJ9/L5ag3uTr6eDokxRAAb1FMLkpkNFLhKyZrRtLgkeQR0jgpBohTZ1rsIrQGtFygzYg2/X+nNISm0oC07A5IcAKKkwCNWIrqcRSnAEWRV9b814ERPCntROzr2u2YIPbjEStxFkBayeCHBb6oonGjr8FL//ggIy6C9Qs2zjIBfR2qaDc80OD7z3lvJUWsUkBLQ8XSZCqQTGhhDzX3SfrpiztNXKNgPc35RbrDMlaPkcuu5bkNWdGfOG9LeKrc9TJSNbyuIgd8rWRp+SJif/GA2XzitZ1R4aUAAAAAElFTkSuQmCC"/></g>
       <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.26s" begin="0s" calcMode="discrete" repeatCount="indefinite"/><image width="32" height="32" image-rendering="pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABLElEQVR4nO1VWw7CIBAE5AL1R+9/uvqDF6jRYFyzThbKQGN/OkkTSunO7INd5w7sDL+FkTQvT1mfr9H/TUD6EE+X03fvfntQQvxWxAhWCEXOQKfHQmDJa14PIc1LVS3reWsUgn7J3q2FrAdNdpPyEKMx4j1TDw6JREhNQIs4dK5ZgIb1rZXccoy+BdNA9edeIH1BbImIoL1nSLJB5jyK+EGCHLWAKcxSQec11Yh6oUOOkQhrP+fD8qDRYkgNG3omaBERr4XkFYumF0iuRbwFlAjWSKUIRWivSD8yZFBEKYq1kRzkQCmfVv41kYiQh4XXL1abzOL0vkVi1YvuE6U6oCD3tzYbrIGGfQARWwVIJKxbgtAebz7eU2Wy6enZai+yArAmSmdYuwcOuL3wAnkhCyGjK0yjAAAAAElFTkSuQmCC"/></g>
     </g>
