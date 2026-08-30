@@ -18,9 +18,7 @@
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## 🌙 About
-
-<img align="right" width="140" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="sparkles"/>
+## 🌙 About ✦
 
 > *"Every bug is just a spell I refused to give up on."*
 
@@ -35,44 +33,54 @@ Researching **medicine + AI** for better patient outcomes, alongside **Clínic B
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## ✦ Tech I Wield
+## ✦ Tech I Wield ✦
 
 <div align="center">
 
-**Data & Machine Learning**
+<sub>✧ &nbsp;**LANGUAGES**&nbsp; ✧</sub><br/>
+![Python](https://img.shields.io/badge/Python-120e24?style=flat-square&logo=python&logoColor=ffd66b)
+![Java](https://img.shields.io/badge/Java-120e24?style=flat-square&logo=openjdk&logoColor=ff8fc4)
+![C](https://img.shields.io/badge/C-120e24?style=flat-square&logo=c&logoColor=c9b6ff)
+![C++](https://img.shields.io/badge/C%2B%2B-120e24?style=flat-square&logo=cplusplus&logoColor=ff8fc4)
+![JavaScript](https://img.shields.io/badge/JavaScript-120e24?style=flat-square&logo=javascript&logoColor=ffd66b)
+![TypeScript](https://img.shields.io/badge/TypeScript-120e24?style=flat-square&logo=typescript&logoColor=c9b6ff)
+![PHP](https://img.shields.io/badge/PHP-120e24?style=flat-square&logo=php&logoColor=c9b6ff)
 
-[![Data & ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&perline=8)](https://skillicons.dev)
-![NumPy](https://img.shields.io/badge/-NumPy-120e24?style=flat-square&logo=numpy&logoColor=c9b6ff)
-![Pandas](https://img.shields.io/badge/-Pandas-120e24?style=flat-square&logo=pandas&logoColor=ff8fc4)
+<sub>✧ &nbsp;**MACHINE LEARNING & DATA**&nbsp; ✧</sub><br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-120e24?style=flat-square&logo=tensorflow&logoColor=ff8fc4)
+![PyTorch](https://img.shields.io/badge/PyTorch-120e24?style=flat-square&logo=pytorch&logoColor=ffd66b)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-120e24?style=flat-square&logo=scikitlearn&logoColor=ffd66b)
+![NumPy](https://img.shields.io/badge/NumPy-120e24?style=flat-square&logo=numpy&logoColor=c9b6ff)
+![Pandas](https://img.shields.io/badge/Pandas-120e24?style=flat-square&logo=pandas&logoColor=ff8fc4)
 
-**Frontend**
+<sub>✧ &nbsp;**WEB**&nbsp; ✧</sub><br/>
+![React](https://img.shields.io/badge/React-120e24?style=flat-square&logo=react&logoColor=c9b6ff)
+![Node.js](https://img.shields.io/badge/Node.js-120e24?style=flat-square&logo=nodedotjs&logoColor=ffd66b)
+![Django](https://img.shields.io/badge/Django-120e24?style=flat-square&logo=django&logoColor=ff8fc4)
+![HTML5](https://img.shields.io/badge/HTML5-120e24?style=flat-square&logo=html5&logoColor=ff8fc4)
+![CSS3](https://img.shields.io/badge/CSS3-120e24?style=flat-square&logo=css3&logoColor=c9b6ff)
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css&perline=8)](https://skillicons.dev)
+<sub>✧ &nbsp;**DATA & INFRASTRUCTURE**&nbsp; ✧</sub><br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-120e24?style=flat-square&logo=postgresql&logoColor=c9b6ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-120e24?style=flat-square&logo=mongodb&logoColor=ff8fc4)
+![MySQL](https://img.shields.io/badge/MySQL-120e24?style=flat-square&logo=mysql&logoColor=ffd66b)
+![SQLite](https://img.shields.io/badge/SQLite-120e24?style=flat-square&logo=sqlite&logoColor=c9b6ff)
+![Docker](https://img.shields.io/badge/Docker-120e24?style=flat-square&logo=docker&logoColor=c9b6ff)
+![Nginx](https://img.shields.io/badge/Nginx-120e24?style=flat-square&logo=nginx&logoColor=ff8fc4)
+![Linux](https://img.shields.io/badge/Linux-120e24?style=flat-square&logo=linux&logoColor=ffd66b)
+![Git](https://img.shields.io/badge/Git-120e24?style=flat-square&logo=git&logoColor=ff8fc4)
 
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=java,py,django,cs,cpp,c,php&perline=8)](https://skillicons.dev)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=8)](https://skillicons.dev)
-
-**DevOps & Infrastructure**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,nginx,apache,git,linux&perline=8)](https://skillicons.dev)
-
-**Open-Source Platforms**
-
-![DSpace](https://img.shields.io/badge/-DSpace-120e24?style=flat-square&logoColor=c9b6ff)
-![PrestaShop](https://img.shields.io/badge/-PrestaShop-120e24?style=flat-square&logo=prestashop&logoColor=ff8fc4)
-![Koha](https://img.shields.io/badge/-Koha-120e24?style=flat-square)
-![Archivematica](https://img.shields.io/badge/-Archivematica-120e24?style=flat-square)
+<sub>✧ &nbsp;**OPEN-SOURCE PLATFORMS**&nbsp; ✧</sub><br/>
+![DSpace](https://img.shields.io/badge/DSpace-120e24?style=flat-square&logoColor=c9b6ff)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-120e24?style=flat-square&logo=prestashop&logoColor=ff8fc4)
+![Koha](https://img.shields.io/badge/Koha-120e24?style=flat-square)
+![Archivematica](https://img.shields.io/badge/Archivematica-120e24?style=flat-square)
 
 </div>
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## ✦ Moonlight Stats
+## ✦ Moonlight Stats ✦
 
 <div align="center">
 
@@ -83,15 +91,11 @@ Researching **medicine + AI** for better patient outcomes, alongside **Clínic B
 <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soukainacodes&theme=aura" alt="top languages" />
 <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soukainacodes&theme=aura&utcOffset=0" alt="productive time" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=soukainacodes&hide_border=true&background=120e24&ring=ffd66b&fire=ff8fc4&currStreakLabel=ffd66b&sideLabels=d9c9ff&dates=c9b6ff&stroke=c9b6ff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-
 </div>
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## ✦ Featured Spells
+## ✦ Featured Spells ✦
 
 > *A cat-witch is only as good as the spells she dares to cast.*
 
@@ -115,7 +119,7 @@ Lightweight open-source ad blocker. Simple ON/OFF toggle, privacy-first, customi
 
 <div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## ✦ Reach Me Across the Night Sky
+## ✦ Reach Me Across the Night Sky ✦
 
 <div align="center">
 
