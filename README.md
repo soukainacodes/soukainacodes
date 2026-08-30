@@ -42,48 +42,40 @@
 
 ---
 
-## 📖 My Spellbook — Tech I Wield
+## 📖 My Spellbook, Tech I Wield
 
-### 🧪 Potions of Data & Machine Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
 
-### ✨ Charms of the Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**🧪 Potions of Data & Machine Learning**
 
-### 🔧 Enchantments of the Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+[![Data & ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&perline=8)](https://skillicons.dev)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🗝️ Vaults & Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+**✨ Charms of the Frontend**
 
-### 🌩️ Rituals of DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css&perline=8)](https://skillicons.dev)
 
-### 🌍 Ancient Open-Source Artifacts
-![DSpace](https://img.shields.io/badge/-DSpace-005B94?style=for-the-badge&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
-![Koha](https://img.shields.io/badge/-Koha-009639?style=for-the-badge&logoColor=white)
-![Archivematica](https://img.shields.io/badge/-Archivematica-00ADEF?style=for-the-badge&logoColor=white)
+**🔧 Enchantments of the Backend**
+
+[![Backend](https://skillicons.dev/icons?i=java,py,django,cs,cpp,c,php&perline=8)](https://skillicons.dev)
+
+**🗄️ Vaults & Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=8)](https://skillicons.dev)
+
+**🌩️ Rituals of DevOps & Infrastructure**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,nginx,apache,git,linux&perline=8)](https://skillicons.dev)
+
+**🌍 Ancient Open-Source Artifacts**
+
+![DSpace](https://img.shields.io/badge/-DSpace-005B94?style=flat-square)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
+![Koha](https://img.shields.io/badge/-Koha-009639?style=flat-square)
+![Archivematica](https://img.shields.io/badge/-Archivematica-00ADEF?style=flat-square)
+
+</div>
 
 ---
 
@@ -91,43 +83,48 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soukainacodes&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukainacodes&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="top langs" />
+<!-- ✦ SUMMARY CARDS (reliable, cohesive panel) ✦ -->
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soukainacodes&theme=tokyonight" alt="profile details" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soukainacodes&theme=tokyonight" alt="repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soukainacodes&theme=tokyonight" alt="most commit language" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soukainacodes&theme=tokyonight" alt="stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soukainacodes&theme=tokyonight&utcOffset=0" alt="productive time" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&theme=tokyonight&hide_border=true&background=0b1026&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" alt="streak" />
 
-<br/>
-
-<!-- ✦ ANIMATED ACTIVITY GRAPH (moving line) ✦ -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soukainacodes&bg_color=0b1026&color=8fd0ff&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-
 </div>
 
 ---
 
-## 🧹 The Grimoire — Featured Spells
+## 🧹 The Grimoire, Featured Spells
 
 > *A witch is only as good as the spells she dares to cast.*
 
 ### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
-`✦ level: enchanted` — A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
+`✦ level: enchanted` : A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
 
 ### 💱 [Predicting Exchange Rates Using SVM](https://github.com/soukainacodes/Using--SVM-To-Predict-Swedish-Krona)
-`✦ level: divination` — Foretelling exchange rates: Linear vs Huber Regression on ECB data, scried through MSE & Huber Loss.
+`✦ level: divination` : Foretelling exchange rates, Linear vs Huber Regression on ECB data, scried through MSE & Huber Loss.
 
 ### 🚗 [From Multivariant Data Analysis to Predictive Modeling on UK's Used Car Prices](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)
-`✦ level: grand ritual` — Data cleaning, EDA, MVA, clustering & ML woven into one spell of actionable insight.
+`✦ level: grand ritual` : Data cleaning, EDA, MVA, clustering & ML woven into one spell of actionable insight.
 
 ### 🎭 [Building & Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
-`✦ level: archmage` — A vast repository conjured on DSpace 7.6, with massive data migration and UI/UX enchantments.
+`✦ level: archmage` : A vast repository conjured on DSpace 7.6, with massive data migration and UI/UX enchantments.
 
 ### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)
-`✦ level: familiar summoning` — A full Scrabble game in Java with player-vs-machine logic, dictionaries, rankings & an AI player built on resolution algorithms.
+`✦ level: familiar summoning` : A full Scrabble game in Java with player-vs-machine logic, dictionaries, rankings & an AI player built on resolution algorithms.
 
-### 🛡️ [Turfs — Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
-`✦ level: protective ward` — A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
+### 🛡️ [Turfs, Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
+`✦ level: protective ward` : A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
 
 ---
 
@@ -141,7 +138,7 @@
 
 <br/>
 
-<!-- ✦ CONTRIBUTION SNAKE (needs the GitHub Action below) ✦ -->
+<!-- ✦ CONTRIBUTION SNAKE (needs the GitHub Action in .github/workflows/snake.yml) ✦ -->
 <img src="https://raw.githubusercontent.com/soukainacodes/soukainacodes/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 <br/><br/>
