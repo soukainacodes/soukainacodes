@@ -1,16 +1,23 @@
-<!-- ✧･ﾟ WITCH APPRENTICE README ･ﾟ✧ -->
+<!-- ✦･ﾟ NIGHT WITCH README ･ﾟ✦ -->
 
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=220&section=header&text=Pretty%20Witchi%2C%20Soukaina-cchi!&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=%E2%9C%A6%20apprentice%20witch%20of%20code%20%C2%B7%20data%20%C2%B7%20AI%20%E2%9C%A6&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
-</a>
+<!-- ✦ ANIMATED STARFIELD HERO (moving stars, shooting stars, glowing moon) ✦ -->
+<div align="center">
+  <img width="100%" src="./assets/starfield.svg" alt="starfield banner"/>
+</div>
 
+<!-- ✦ MOVING TYPING TEXT ✦ -->
 <div align="center">
 
-`♠ pai pai pai... the pretty witch of code ♠`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Casting+spells+in+Java%2C+Python+%26+React;Brewing+machine+learning+potions;Bridging+medicine+%2B+AI+for+real+impact;Every+bug+is+just+a+spell+not+finished+yet)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=soukainacodes&label=magic%20visits&color=2563eb&style=for-the-badge)
-[![Website](https://img.shields.io/badge/grimoire-soukainamehboub.com-38bdf8?style=for-the-badge&logo=firefox&logoColor=white)](https://soukainamehboub.com)
-[![Email](https://img.shields.io/badge/owl%20post-email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukainamm98@gmail.com)
+</div>
+
+<!-- ✦ LIVE BADGES ✦ -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=soukainacodes&label=stargazers%20passing%20by&color=2563eb&style=for-the-badge)
+[![Website](https://img.shields.io/badge/spellbook-soukainamehboub.com-38bdf8?style=for-the-badge&logo=firefox&logoColor=white)](https://soukainamehboub.com)
+[![Email](https://img.shields.io/badge/message%20me-email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukainamm98@gmail.com)
 
 </div>
 
@@ -18,11 +25,11 @@
 
 ## 🔮 The Witch Behind the Wand
 
-> *"Every spell starts as a bug you refused to give up on."*
+<img align="right" width="180" src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="drifting sparkles"/>
 
-<img align="right" width="200" src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="magic sparkles"/>
+> *"Every bug is just a spell I refused to give up on."*
 
-🧙‍♀️ **Apprentice witch** casting full-time in **Iceland** ❄️
+🧙‍♀️ Night witch casting full-time in **Iceland** ❄️
 💻 Computer Engineer specializing in **Information Systems**, brewing potions of **data analysis, machine learning & AI-driven knowledge extraction**
 📚 Studying my **Master's in Cybersecurity & Engineering** at the academy
 🔬 On a quest to bridge **medicine + AI** for better patient outcomes
@@ -30,6 +37,8 @@
 🚀 Always looking for a dynamic coven to grow with and lift up
 
 `Building spells with:` **Java** · **C++/C** · **React** · **Node.js** · **Python**
+
+<br clear="right"/>
 
 ---
 
@@ -87,7 +96,12 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&theme=tokyonight&hide_border=true&background=1a1b27&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&theme=tokyonight&hide_border=true&background=0b1026&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" alt="streak" />
+
+<br/>
+
+<!-- ✦ ANIMATED ACTIVITY GRAPH (moving line) ✦ -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soukainacodes&bg_color=0b1026&color=8fd0ff&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
@@ -98,41 +112,40 @@
 > *A witch is only as good as the spells she dares to cast.*
 
 ### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
-`♠ level: enchanted` — A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
+`✦ level: enchanted` — A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
 
 ### 💱 [Predicting Exchange Rates Using SVM](https://github.com/soukainacodes/Using--SVM-To-Predict-Swedish-Krona)
-`♠ level: divination` — Foretelling exchange rates: Linear vs Huber Regression on ECB data, scried through MSE & Huber Loss.
+`✦ level: divination` — Foretelling exchange rates: Linear vs Huber Regression on ECB data, scried through MSE & Huber Loss.
 
 ### 🚗 [From Multivariant Data Analysis to Predictive Modeling on UK's Used Car Prices](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)
-`♠ level: grand ritual` — Data cleaning, EDA, MVA, clustering & ML woven into one spell of actionable insight.
+`✦ level: grand ritual` — Data cleaning, EDA, MVA, clustering & ML woven into one spell of actionable insight.
 
 ### 🎭 [Building & Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
-`♠ level: archmage` — A vast repository conjured on DSpace 7.6, with massive data migration and UI/UX enchantments.
+`✦ level: archmage` — A vast repository conjured on DSpace 7.6, with massive data migration and UI/UX enchantments.
 
 ### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)
-`♠ level: familiar summoning` — A full Scrabble game in Java with player-vs-machine logic, dictionaries, rankings & an AI player built on resolution algorithms.
+`✦ level: familiar summoning` — A full Scrabble game in Java with player-vs-machine logic, dictionaries, rankings & an AI player built on resolution algorithms.
 
 ### 🛡️ [Turfs — Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
-`♠ level: protective ward` — A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
+`✦ level: protective ward` — A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
 
 ---
 
-## 💫 Send an Owl
+## 💫 Send a Message Across the Night Sky
 
 <div align="center">
 
-📫 **Owl post:** [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)
-🌐 **Grimoire:** [soukainamehboub.com](https://soukainamehboub.com)
+📫 **Reach me:** [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)
+🌐 **Spellbook:** [soukainamehboub.com](https://soukainamehboub.com)
 💡 *Always happy to chat magic, code & everything between!*
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<!-- ✦ CONTRIBUTION SNAKE (needs the GitHub Action below) ✦ -->
+<img src="https://raw.githubusercontent.com/soukainacodes/soukainacodes/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
-<br/>
+<br/><br/>
 
-`✦ ･ﾟ: *✧ paipai ponpoi puu, watashi wa... a witch of code! ✧* :ﾟ･ ✦`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:1e3a8a&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0b1026&height=120&section=footer" alt="footer"/>
 
 </div>
