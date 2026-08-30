@@ -1,46 +1,41 @@
-<!-- ✦･ﾟ NIGHT WITCH README ･ﾟ✦ -->
+<!-- ✦･ﾟ LUNA · COSMIC CAT-WITCH README ･ﾟ✦ -->
 
-<!-- ✦ ANIMATED STARFIELD HERO (moving stars, shooting stars, glowing moon) ✦ -->
+<!-- ✦ ANIMATED LUNA HERO (shining moon, drifting clouds, blinking cat, sparkles) ✦ -->
 <div align="center">
-  <img width="100%" src="./assets/starfield.svg" alt="starfield banner"/>
+  <img width="100%" src="./assets/luna-hero.svg" alt="Luna the cat under a shining moon"/>
 </div>
 
 <!-- ✦ MOVING TYPING TEXT ✦ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Casting+spells+in+Java%2C+Python+%26+React;Brewing+machine+learning+potions;Bridging+medicine+%2B+AI+for+real+impact;Every+bug+is+just+a+spell+not+finished+yet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&duration=2800&pause=900&color=E7A6D8&center=true&vCenter=true&width=680&lines=Casting+spells+in+Java%2C+Python+%26+React;Brewing+machine+learning+potions;Bridging+medicine+%2B+AI+for+real+impact;Every+bug+is+just+a+spell+not+finished+yet)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=soukainacodes&label=moonlight%20visitors&color=b57edc&style=flat-square" alt="views" />
+<a href="https://soukainamehboub.com"><img src="https://img.shields.io/badge/%E2%9C%A6%20spellbook-soukainamehboub.com-ffc6e5?style=flat-square&labelColor=3b2166" alt="website" /></a>
+<a href="mailto:soukainamm98@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20owl%20mail-email-c9b6ff?style=flat-square&labelColor=3b2166" alt="email" /></a>
 
 </div>
 
-<!-- ✦ LIVE BADGES ✦ -->
-<div align="center">
+<div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=soukainacodes&label=stargazers%20passing%20by&color=2563eb&style=for-the-badge)
-[![Website](https://img.shields.io/badge/spellbook-soukainamehboub.com-38bdf8?style=for-the-badge&logo=firefox&logoColor=white)](https://soukainamehboub.com)
-[![Email](https://img.shields.io/badge/message%20me-email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukainamm98@gmail.com)
+## 🌙 The Cat-Witch Behind the Wand
 
-</div>
-
----
-
-## 🔮 The Witch Behind the Wand
-
-<img align="right" width="180" src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="drifting sparkles"/>
+<img align="right" width="150" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="sparkles"/>
 
 > *"Every bug is just a spell I refused to give up on."*
 
-🧙‍♀️ Night witch casting full-time in **Iceland** ❄️
+🐈‍⬛ Cosmic cat-witch casting full-time in **Iceland** ❄️
 💻 Computer Engineer specializing in **Information Systems**, brewing potions of **data analysis, machine learning & AI-driven knowledge extraction**
-📚 Studying my **Master's in Cybersecurity & Engineering** at the academy
+🌸 Studying my **Master's in Cybersecurity & Engineering** at the academy
 🔬 On a quest to bridge **medicine + AI** for better patient outcomes
 🌍 Casting alongside **Clinic Barcelona** & medical experts for real-world magic
-🚀 Always looking for a dynamic coven to grow with and lift up
+✨ Always looking for a dynamic coven to grow with and lift up
 
 `Building spells with:` **Java** · **C++/C** · **React** · **Node.js** · **Python**
 
 <br clear="right"/>
 
----
+<div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
 ## 📖 My Spellbook, Tech I Wield
 
@@ -77,36 +72,26 @@
 
 </div>
 
----
+<div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
-## 🌙 Magic Meter
+## ✨ Moonlight Stats
 
 <div align="center">
 
-<!-- ✦ SUMMARY CARDS (reliable, cohesive panel) ✦ -->
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soukainacodes&theme=tokyonight" alt="profile details" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=soukainacodes&show_icons=true&hide_border=true&title_color=e7a6d8&icon_color=ffd97a&text_color=e9defb&bg_color=2d1a5e&count_private=true" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukainacodes&layout=compact&hide_border=true&title_color=e7a6d8&text_color=e9defb&bg_color=2d1a5e" alt="top langs" />
 
 <br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soukainacodes&theme=tokyonight" alt="repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soukainacodes&theme=tokyonight" alt="most commit language" />
-
-<br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soukainacodes&theme=tokyonight" alt="stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soukainacodes&theme=tokyonight&utcOffset=0" alt="productive time" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&theme=tokyonight&hide_border=true&background=0b1026&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&hide_border=true&background=2d1a5e&ring=e7a6d8&fire=ffd97a&currStreakLabel=e7a6d8&sideLabels=e9defb&dates=c9b6ff&stroke=c9b6ff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
 </div>
 
----
+<div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
 ## 🧹 The Grimoire, Featured Spells
 
-> *A witch is only as good as the spells she dares to cast.*
+> *A cat-witch is only as good as the spells she dares to cast.*
 
 ### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
 `✦ level: enchanted` : A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
@@ -126,7 +111,7 @@
 ### 🛡️ [Turfs, Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
 `✦ level: protective ward` : A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
 
----
+<div align="center"><img width="900" src="./assets/star-divider.svg" alt="divider"/></div>
 
 ## 💫 Send a Message Across the Night Sky
 
@@ -134,7 +119,7 @@
 
 📫 **Reach me:** [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)
 🌐 **Spellbook:** [soukainamehboub.com](https://soukainamehboub.com)
-💡 *Always happy to chat magic, code & everything between!*
+🌙 *Always happy to chat magic, code & everything between!*
 
 <br/>
 
@@ -143,6 +128,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0b1026&height=120&section=footer" alt="footer"/>
+<sub>✦ made with moonlight, sparkles & a little witchcraft ✦</sub>
 
 </div>
