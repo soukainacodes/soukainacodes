@@ -1,25 +1,41 @@
+<!-- ✧･ﾟ WITCH APPRENTICE README ･ﾟ✧ -->
 
-![Header](./github-header-image.png)
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=220&section=header&text=Pretty%20Witchi%2C%20Soukaina-cchi!&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=%E2%9C%A6%20apprentice%20witch%20of%20code%20%C2%B7%20data%20%C2%B7%20AI%20%E2%9C%A6&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
+</a>
 
+<div align="center">
 
+`♠ pai pai pai... the pretty witch of code ♠`
 
+![Profile Views](https://komarev.com/ghpvc/?username=soukainacodes&label=magic%20visits&color=2563eb&style=for-the-badge)
+[![Website](https://img.shields.io/badge/grimoire-soukainamehboub.com-38bdf8?style=for-the-badge&logo=firefox&logoColor=white)](https://soukainamehboub.com)
+[![Email](https://img.shields.io/badge/owl%20post-email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukainamm98@gmail.com)
 
-## 🙋‍♂️ About Me
-
-🎯 Working full-time in Iceland! 
-💻 I am a Computer Engineer specializing in Information Systems with a strong interest in data analysis, machine learning, and AI-driven knowledge extraction.  
-🚀 I aim to leverage my skills and insight in a dynamic team and contribute meaningfully to the success of the company.  
-📚 Currently studying Masters in Cybersecurity and Engineering.
-
-🧑‍💻 Building with **Java**, **C++/C**, **React**, **Node.js**, and **Python**.  
-🔬 Passionate about bridging **medicine + AI** for better patient outcomes.  
-🌍 Collaborating with **Clinic Barcelona** & medical experts for real-world impact.  
+</div>
 
 ---
 
-## 🛠️ Tech I Use
+## 🔮 The Witch Behind the Wand
 
-### 📊 Data & Machine Learning  
+> *"Every spell starts as a bug you refused to give up on."*
+
+<img align="right" width="200" src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="magic sparkles"/>
+
+🧙‍♀️ **Apprentice witch** casting full-time in **Iceland** ❄️
+💻 Computer Engineer specializing in **Information Systems**, brewing potions of **data analysis, machine learning & AI-driven knowledge extraction**
+📚 Studying my **Master's in Cybersecurity & Engineering** at the academy
+🔬 On a quest to bridge **medicine + AI** for better patient outcomes
+🌍 Casting alongside **Clinic Barcelona** & medical experts for real-world magic
+🚀 Always looking for a dynamic coven to grow with and lift up
+
+`Building spells with:` **Java** · **C++/C** · **React** · **Node.js** · **Python**
+
+---
+
+## 📖 My Spellbook — Tech I Wield
+
+### 🧪 Potions of Data & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,16 +44,12 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-### 🖥️ Frontend  
+### ✨ Charms of the Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-### ⚙️ Backend  
+### 🔧 Enchantments of the Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -46,79 +58,81 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
----
-
-### 🗄️ Databases  
+### 🗝️ Vaults & Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-### 🚀 DevOps & Infrastructure  
+### 🌩️ Rituals of DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🌍 Open Source Solutions  
+### 🌍 Ancient Open-Source Artifacts
 ![DSpace](https://img.shields.io/badge/-DSpace-005B94?style=for-the-badge&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 ![Koha](https://img.shields.io/badge/-Koha-009639?style=for-the-badge&logoColor=white)
 ![Archivematica](https://img.shields.io/badge/-Archivematica-00ADEF?style=for-the-badge&logoColor=white)
 
+---
 
+## 🌙 Magic Meter
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=soukainacodes&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukainacodes&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soukainacodes&theme=tokyonight&hide_border=true&background=1a1b27&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" alt="streak" />
+
+</div>
 
 ---
 
-## 📊 My GitHub Stats
+## 🧹 The Grimoire — Featured Spells
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukainacodes&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-## 📌 Featured Projects
+> *A witch is only as good as the spells she dares to cast.*
 
 ### 🧪 [Objective Quantification of Pruritus in PBC](https://github.com/soukainacodes/Objective-Quantification-of-Pruritus-in-PBC)
-Developing a data-driven method to quantify pruritus in PBC patients for better clinical decisions.  
-
-
----
+`♠ level: enchanted` — A data-driven ritual to quantify pruritus in PBC patients for sharper clinical decisions.
 
 ### 💱 [Predicting Exchange Rates Using SVM](https://github.com/soukainacodes/Using--SVM-To-Predict-Swedish-Krona)
-Exchange rate prediction: compared Linear vs Huber Regression on ECB data, using MSE & Huber Loss.  
+`♠ level: divination` — Foretelling exchange rates: Linear vs Huber Regression on ECB data, scried through MSE & Huber Loss.
 
+### 🚗 [From Multivariant Data Analysis to Predictive Modeling on UK's Used Car Prices](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)
+`♠ level: grand ritual` — Data cleaning, EDA, MVA, clustering & ML woven into one spell of actionable insight.
 
----
-
-### 🚗 [From Multivariant Data Analysis to Predictive Modeling on UK’s Used Cars Prices](https://github.com/soukainacodes/UK-Cars-Used-MVA-ML)
-Comprehensive analysis integrating data cleaning, EDA, MVA, clustering, and ML to derive actionable insights.  
-
----
-
-### 🎭 [Building and Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
-Large-scale repository with DSpace 7.6, massive data migration, and UI/UX enhancements.  
-
----
+### 🎭 [Building & Migrating the Contemporary Catalan Drama Database (DCC)](https://dcc.institutdelteatre.cat/)
+`♠ level: archmage` — A vast repository conjured on DSpace 7.6, with massive data migration and UI/UX enchantments.
 
 ### 🎲 [AI-Powered Scrabble Game](https://github.com/soukainacodes/scrabble-project-in-java)
-A full-featured Scrabble game in Java with player vs machine logic, dictionary management, rankings, and data export. Focused on resolution algorithms for the AI player.
+`♠ level: familiar summoning` — A full Scrabble game in Java with player-vs-machine logic, dictionaries, rankings & an AI player built on resolution algorithms.
+
+### 🛡️ [Turfs — Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
+`♠ level: protective ward` — A lightweight open-source shield against ads. Simple ON/OFF toggle, privacy-first, customizable rules via Chrome's Declarative Net Request API.
 
 ---
 
-### 🛡️ [Turfs - Free Ad Blocker Chrome Extension](https://github.com/soukainacodes/turfs)
-A lightweight, open-source Chrome extension to block ads instantly. Features a simple ON/OFF toggle, privacy-first design, and customizable blocking rules using Chrome’s Declarative Net Request AP
+## 💫 Send an Owl
 
-## 💬 Let’s Connect!
+<div align="center">
 
-📫 Reach me: [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)  
-🌐 Website: [soukainamehboub.com](https://soukainamehboub.com) 
-💡 Always happy to chat!
+📫 **Owl post:** [soukainamm98@gmail.com](mailto:soukainamm98@gmail.com)
+🌐 **Grimoire:** [soukainamehboub.com](https://soukainamehboub.com)
+💡 *Always happy to chat magic, code & everything between!*
 
+<br/>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
+<br/>
+
+`✦ ･ﾟ: *✧ paipai ponpoi puu, watashi wa... a witch of code! ✧* :ﾟ･ ✦`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:1e3a8a&height=120&section=footer" alt="footer"/>
+
+</div>
