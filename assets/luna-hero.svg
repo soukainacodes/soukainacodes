@@ -114,9 +114,9 @@
     </g>
   </g>
 
-  <g font-family="'Segoe UI','Trebuchet MS',sans-serif" text-anchor="start">
-    <text x="66" y="150" font-size="54" font-weight="800" fill="url(#title)" filter="url(#glowT)" opacity="0.8">Soukaina</text>
-    <text x="66" y="150" font-size="54" font-weight="800" fill="url(#title)">Soukaina</text>
-    <text x="70" y="182" font-size="15.5" font-weight="500" fill="#f2e3ff" letter-spacing="3">&#10022; cosmic cat-witch of code, data &amp; AI &#10022;</text>
+  <g text-anchor="start">
+    <text x="66" y="146" font-family="'Segoe UI','Trebuchet MS',sans-serif" font-size="47" font-weight="800" fill="url(#title)" filter="url(#glowT)" opacity="0.8">soukainacodes</text>
+    <text x="66" y="146" font-family="'Segoe UI','Trebuchet MS',sans-serif" font-size="47" font-weight="800" fill="url(#title)">soukainacodes</text>
+    <text x="70" y="180" font-family="'Segoe UI','Tahoma','Noto Sans Arabic',sans-serif" font-size="17" font-weight="600" fill="#f2e3ff"><tspan letter-spacing="2">Souka&#239;na &#183; S&#250;keyna &#183; </tspan><tspan font-size="20">&#1587;&#1603;&#1610;&#1606;&#1577;</tspan></text>
   </g>
 </svg>
