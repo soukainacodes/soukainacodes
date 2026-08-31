@@ -38,41 +38,41 @@ Researching **medicine + AI** for better patient outcomes, alongside **Clínic B
 <div align="center">
 
 <sub>✧ &nbsp;**LANGUAGES**&nbsp; ✧</sub><br/>
-![Python](https://img.shields.io/badge/Python-120e24?style=flat-square&logo=python&logoColor=ffd66b)
-![Java](https://img.shields.io/badge/Java-120e24?style=flat-square&logo=openjdk&logoColor=ff8fc4)
+![Python](https://img.shields.io/badge/Python-120e24?style=flat-square&logo=python&logoColor=c9b6ff)
+![Java](https://img.shields.io/badge/Java-120e24?style=flat-square&logo=openjdk&logoColor=c9b6ff)
 ![C](https://img.shields.io/badge/C-120e24?style=flat-square&logo=c&logoColor=c9b6ff)
-![C++](https://img.shields.io/badge/C%2B%2B-120e24?style=flat-square&logo=cplusplus&logoColor=ff8fc4)
-![JavaScript](https://img.shields.io/badge/JavaScript-120e24?style=flat-square&logo=javascript&logoColor=ffd66b)
+![C++](https://img.shields.io/badge/C%2B%2B-120e24?style=flat-square&logo=cplusplus&logoColor=c9b6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-120e24?style=flat-square&logo=javascript&logoColor=c9b6ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-120e24?style=flat-square&logo=typescript&logoColor=c9b6ff)
 ![PHP](https://img.shields.io/badge/PHP-120e24?style=flat-square&logo=php&logoColor=c9b6ff)
 
 <sub>✧ &nbsp;**MACHINE LEARNING & DATA**&nbsp; ✧</sub><br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-120e24?style=flat-square&logo=tensorflow&logoColor=ff8fc4)
-![PyTorch](https://img.shields.io/badge/PyTorch-120e24?style=flat-square&logo=pytorch&logoColor=ffd66b)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-120e24?style=flat-square&logo=scikitlearn&logoColor=ffd66b)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-120e24?style=flat-square&logo=tensorflow&logoColor=c9b6ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-120e24?style=flat-square&logo=pytorch&logoColor=c9b6ff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-120e24?style=flat-square&logo=scikitlearn&logoColor=c9b6ff)
 ![NumPy](https://img.shields.io/badge/NumPy-120e24?style=flat-square&logo=numpy&logoColor=c9b6ff)
-![Pandas](https://img.shields.io/badge/Pandas-120e24?style=flat-square&logo=pandas&logoColor=ff8fc4)
+![Pandas](https://img.shields.io/badge/Pandas-120e24?style=flat-square&logo=pandas&logoColor=c9b6ff)
 
 <sub>✧ &nbsp;**WEB**&nbsp; ✧</sub><br/>
 ![React](https://img.shields.io/badge/React-120e24?style=flat-square&logo=react&logoColor=c9b6ff)
-![Node.js](https://img.shields.io/badge/Node.js-120e24?style=flat-square&logo=nodedotjs&logoColor=ffd66b)
-![Django](https://img.shields.io/badge/Django-120e24?style=flat-square&logo=django&logoColor=ff8fc4)
-![HTML5](https://img.shields.io/badge/HTML5-120e24?style=flat-square&logo=html5&logoColor=ff8fc4)
+![Node.js](https://img.shields.io/badge/Node.js-120e24?style=flat-square&logo=nodedotjs&logoColor=c9b6ff)
+![Django](https://img.shields.io/badge/Django-120e24?style=flat-square&logo=django&logoColor=c9b6ff)
+![HTML5](https://img.shields.io/badge/HTML5-120e24?style=flat-square&logo=html5&logoColor=c9b6ff)
 ![CSS3](https://img.shields.io/badge/CSS3-120e24?style=flat-square&logo=css3&logoColor=c9b6ff)
 
 <sub>✧ &nbsp;**DATA & INFRASTRUCTURE**&nbsp; ✧</sub><br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-120e24?style=flat-square&logo=postgresql&logoColor=c9b6ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-120e24?style=flat-square&logo=mongodb&logoColor=ff8fc4)
-![MySQL](https://img.shields.io/badge/MySQL-120e24?style=flat-square&logo=mysql&logoColor=ffd66b)
+![MongoDB](https://img.shields.io/badge/MongoDB-120e24?style=flat-square&logo=mongodb&logoColor=c9b6ff)
+![MySQL](https://img.shields.io/badge/MySQL-120e24?style=flat-square&logo=mysql&logoColor=c9b6ff)
 ![SQLite](https://img.shields.io/badge/SQLite-120e24?style=flat-square&logo=sqlite&logoColor=c9b6ff)
 ![Docker](https://img.shields.io/badge/Docker-120e24?style=flat-square&logo=docker&logoColor=c9b6ff)
-![Nginx](https://img.shields.io/badge/Nginx-120e24?style=flat-square&logo=nginx&logoColor=ff8fc4)
-![Linux](https://img.shields.io/badge/Linux-120e24?style=flat-square&logo=linux&logoColor=ffd66b)
-![Git](https://img.shields.io/badge/Git-120e24?style=flat-square&logo=git&logoColor=ff8fc4)
+![Nginx](https://img.shields.io/badge/Nginx-120e24?style=flat-square&logo=nginx&logoColor=c9b6ff)
+![Linux](https://img.shields.io/badge/Linux-120e24?style=flat-square&logo=linux&logoColor=c9b6ff)
+![Git](https://img.shields.io/badge/Git-120e24?style=flat-square&logo=git&logoColor=c9b6ff)
 
 <sub>✧ &nbsp;**OPEN-SOURCE PLATFORMS**&nbsp; ✧</sub><br/>
-![DSpace](https://img.shields.io/badge/DSpace-120e24?style=flat-square&logoColor=c9b6ff)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-120e24?style=flat-square&logo=prestashop&logoColor=ff8fc4)
+![DSpace](https://img.shields.io/badge/DSpace-120e24?style=flat-square&logo=dspace&logoColor=c9b6ff)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-120e24?style=flat-square&logo=prestashop&logoColor=c9b6ff)
 ![Koha](https://img.shields.io/badge/Koha-120e24?style=flat-square)
 ![Archivematica](https://img.shields.io/badge/Archivematica-120e24?style=flat-square)
 
